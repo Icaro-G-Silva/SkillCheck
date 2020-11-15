@@ -1,0 +1,10 @@
+C:\Users\Usuario\Documents\ProgrammingStuff\SkillCheck\SkillCheck\bin\Debug\SkillCheck.exe.config
+C:\Users\Usuario\Documents\ProgrammingStuff\SkillCheck\SkillCheck\bin\Debug\SkillCheck.exe
+C:\Users\Usuario\Documents\ProgrammingStuff\SkillCheck\SkillCheck\bin\Debug\SkillCheck.pdb
+C:\Users\Usuario\Documents\ProgrammingStuff\SkillCheck\SkillCheck\obj\Debug\SkillCheck.csprojAssemblyReference.cache
+C:\Users\Usuario\Documents\ProgrammingStuff\SkillCheck\SkillCheck\obj\Debug\SkillCheck.Properties.Resources.resources
+C:\Users\Usuario\Documents\ProgrammingStuff\SkillCheck\SkillCheck\obj\Debug\SkillCheck.SkillCheck.resources
+C:\Users\Usuario\Documents\ProgrammingStuff\SkillCheck\SkillCheck\obj\Debug\SkillCheck.csproj.GenerateResource.cache
+C:\Users\Usuario\Documents\ProgrammingStuff\SkillCheck\SkillCheck\obj\Debug\SkillCheck.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Documents\ProgrammingStuff\SkillCheck\SkillCheck\obj\Debug\SkillCheck.exe
+C:\Users\Usuario\Documents\ProgrammingStuff\SkillCheck\SkillCheck\obj\Debug\SkillCheck.pdb
